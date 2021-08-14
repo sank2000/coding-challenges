@@ -27,7 +27,7 @@ import java.util.Scanner;
  * 
  * Output : 40 10 20 30
  * 
- */
+ */ 
 
 public class Ques1 {
 
